@@ -4,3 +4,29 @@ This is a Note Making Chrome Extension .The name of this extension is Notes-Make
  Notes-Maker can work on multiple devices and has a very good user interface. It is basically work on the principle of CRUD(create,replace,update,delete)
 There you can make any type of notes and that notes being saved on your local device.
 
+<h3>The following are some specialisation of Notes-Maker.</h3>
+1) It works on the principle of CRUD.
+2) It has a searching functionality.You can search your notes easily.
+3) Dates and Time also got saved with notes which help user to distinguish their notes.
+4) It has a good user interface.
+5) Notes-Maker is totally Responsive and work perfectly in every device.
+
+<h1>Tech Stacks.</h1>
+
+1) React.
+2) CSS.
+3) Javascript.
+4) HTML.
+
+<h1>Team Members.</h1>
+
+1) Shiv Patel.
+2) Yogesh Patidar.
+3) Vishal.
+4) Roshan Saini.
+
+<h1>Mentors</h1>
+
+1) Anjani Kumar.
+2) Jayant Belwanshi.
+
