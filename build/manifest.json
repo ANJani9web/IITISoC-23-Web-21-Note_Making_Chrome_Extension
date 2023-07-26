@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Notes-Maker",
+  "description":"This the app where you can make your notes",
+  "version":"1.1.1",
+  "action":{
+    "default_popup":"index.html",
+    "default_title":"Open"
+  },
+  "permissions":[
+    "scripting"
+  ]
+}
+
