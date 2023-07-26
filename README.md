@@ -5,7 +5,8 @@ This is a Note Making Chrome Extension .The name of this extension is Notes-Make
 There you can make any type of notes and that notes being saved on your local device.
 
 <h3>The following are some specialisation of Notes-Maker.</h3>
-1) It works on the principle of CRUD.
+
+1)  It works on the principle of CRUD.
 2) It has a searching functionality.You can search your notes easily.
 3) Dates and Time also got saved with notes which help user to distinguish their notes.
 4) It has a good user interface.
